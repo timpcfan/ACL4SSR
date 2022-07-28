@@ -1,0 +1,5 @@
+# 无需代理
+
+# notion
+DOMAIN-SUFFIX,notion.so
+IP-CIDR,119.28.13.121/32,no-resolve
