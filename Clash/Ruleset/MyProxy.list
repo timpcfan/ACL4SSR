@@ -1,6 +1,5 @@
 # 强制代理列表
 
 # switch
-SRC-IP-CIDR,192.168.1.188/32
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.com
