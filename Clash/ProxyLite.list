@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
-DOMAIN-SUFFIX,cccat.io
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,gameloft.com
@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,teddysun.com
@@ -89,7 +90,6 @@ DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,daum.net
-DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,deskconnect.com
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
@@ -387,6 +387,7 @@ DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN,steambroadcast.akamaized.net
@@ -469,3 +470,7 @@ DOMAIN-SUFFIX,flzbcdn.xyz
 
 #华文电视
 DOMAIN-SUFFIX,ocnttv.com
+
+# VikACG
+DOMAIN-SUFFIX,vikacg.com
+DOMAIN-SUFFIX,picjs.xyz
