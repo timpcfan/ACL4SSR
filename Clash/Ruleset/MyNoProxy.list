@@ -5,5 +5,4 @@ DOMAIN-SUFFIX,notion.so
 IP-CIDR,119.28.13.121/32,no-resolve
 
 # my sites
-DOMAIN-SUFFIX,timpcfan.top
-DOMAIN-SUFFIX,timpcfan.site
+DOMAIN,timpcfan.site
