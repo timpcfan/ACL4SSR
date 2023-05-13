@@ -4,6 +4,7 @@
 * 仅推荐未root的安卓手机使用。
 * Telegram频道订阅地址：**[https://t.me/ACL4SSR](https://t.me/ACL4SSR)**
 * [关于中国的互联网](https://github.com/ACL4SSR/ACL4SSR/wiki/关于中国的互联网)
+* [规则定义](https://lancellc.gitbook.io/clash/clash-config-file/rules)
   
 # 安卓 SSR 去广告ACL规则
   * 屏蔽小米手机和魅族flyme rom系统广告
