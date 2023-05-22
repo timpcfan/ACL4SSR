@@ -1,6 +1,3 @@
 # AdobeCSR
-DOMAIN-SUFFIX,csr.cr.adobe.com
 DOMAIN-SUFFIX,crs.cr.adobe.com
-DOMAIN-SUFFIX,cai-splunk-proxy.adobe.io
-DOMAIN-SUFFIX,ic.adobe.io
-DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN-SUFFIX,adobe.io
